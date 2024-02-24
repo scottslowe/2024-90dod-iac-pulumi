@@ -1,0 +1,3 @@
+name: 2024-90dod-iac-pulumi
+runtime: nodejs
+description: A simple AWS TypeScript Pulumi program for 90DaysOfDevOps
